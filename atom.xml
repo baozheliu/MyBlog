@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>MY HOME</title>
+  <title>Hexo</title>
   
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://www.liubaozhe.com/"/>
+  <link href="http://yoursite.com/"/>
   <updated>2019-09-28T07:43:49.860Z</updated>
-  <id>http://www.liubaozhe.com/</id>
+  <id>http://yoursite.com/</id>
   
   <author>
-    <name>刘保哲</name>
+    <name>John Doe</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://www.liubaozhe.com/2019/09/28/hello-world/"/>
-    <id>http://www.liubaozhe.com/2019/09/28/hello-world/</id>
+    <link href="http://yoursite.com/2019/09/28/hello-world/"/>
+    <id>http://yoursite.com/2019/09/28/hello-world/</id>
     <published>2019-09-28T06:50:31.575Z</published>
     <updated>2019-09-28T07:43:49.860Z</updated>
     
